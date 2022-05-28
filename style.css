@@ -717,6 +717,9 @@ ul {
         top: -14rem;
         left: 7.5rem;
     }
+    .horizontal-card-img {
+        width: 100%;
+    }
 }
 
 
